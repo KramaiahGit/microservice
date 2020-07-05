@@ -16,7 +16,7 @@ public class SpringbootProject1Application {
 	@RequestMapping("/welcome")
 	public String welcome() {
 		
-		return "Welcome to Spring by Kumardfdfdf;
+		return "Welcome to Spring by Kumardfdfdfdfd";
 	}
 	
 }
